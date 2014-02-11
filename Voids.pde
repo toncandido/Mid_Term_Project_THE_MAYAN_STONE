@@ -1,4 +1,3 @@
-
 void off() { // Stand By state
   digitalWrite(oneLED, LOW);
   digitalWrite(twoLED, LOW);
