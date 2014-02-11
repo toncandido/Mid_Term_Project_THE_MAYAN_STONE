@@ -15,8 +15,7 @@
  
  */
  
- ```javascript
- 
+
  //VARIABLES
  
  
@@ -380,5 +379,3 @@ void pressButton() {
 
 
 }
-
-      ```
