@@ -15,7 +15,7 @@
  
  */
  
- `````javascript
+ ```javascript
  
  //VARIABLES
  
@@ -376,5 +376,7 @@ void pressButton() {
   pressButtonState = digitalRead(pressButtonPin);
   Serial.print("button press:  ");
   Serial.println(pressButtonState);
+  
+      ```
 
 }
